@@ -8,3 +8,6 @@
 .idea
 .project
 Te.iml
+gradle
+gradlew
+gradlew.bat
